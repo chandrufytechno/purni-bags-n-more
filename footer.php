@@ -14,48 +14,49 @@
 						</p>
 					</div>
 					<div class="col footer-col colorlib-widget">
-						<h4>Customer Care</h4>
+						<h4>Shop by Category</h4>
 						<p>
 							<ul class="colorlib-footer-links">
-								<li><a href="#">Contact</a></li>
-								<li><a href="#">Returns/Exchange</a></li>
-								<li><a href="#">Gift Voucher</a></li>
-								<li><a href="#">Wishlist</a></li>
-								<li><a href="#">Special</a></li>
-								<li><a href="#">Customer Services</a></li>
-								<li><a href="#">Site maps</a></li>
+								<li><a href="list-products.php">Corporate Gifts</a></li>
+										<li><a href="list-products.php">Electronics Accessories</a></li>
+										<li><a href="list-products.php">Travel Bag</a></li>
+										<li><a href="list-products.php">Travel Accessories</a></li>
+										<li><a href="list-products.php">Trucking Bags</a></li>
 							</ul>
 						</p>
 					</div>
 					<div class="col footer-col colorlib-widget">
-						<h4>Information</h4>
+						<h4>Brands</h4>
 						<p>
-							<ul class="colorlib-footer-links">
-								<li><a href="#">About us</a></li>
-								<li><a href="#">Delivery Information</a></li>
-								<li><a href="#">Privacy Policy</a></li>
-								<li><a href="#">Support</a></li>
-								<li><a href="#">Order Tracking</a></li>
+							<ul class="colorlib-footer-links">								
+										<li><a href="list-products.php">VAYA</a></li>
+										<li><a href="list-products.php">Swiss Military</a></li>
+										<li><a href="list-products.php">Mufubu</a></li>
+										<li><a href="list-products.php">JBL</a></li>
+										<li><a href="list-products.php">Signoraware</a></li>
+										<li><a href="list-products.php">Miniso</a></li>
+										<li><a href="list-products.php">Wildcraft</a></li>
+										<li><a href="list-products.php">Sheaffer</a></li>
 							</ul>
 						</p>
 					</div>
 
 					<div class="col footer-col">
-						<h4>News</h4>
+						<h4>Customer Care</h4>
 						<ul class="colorlib-footer-links">
-							<li><a href="blog.html">Blog</a></li>
-							<li><a href="#">Press</a></li>
-							<li><a href="#">Exhibitions</a></li>
+							<li><a href="https://www.termsfeed.com/live/a0faf803-4207-4df0-ac42-3005f7f435f1">Terms & Condition</a></li>
+							<li><a href="https://www.freeprivacypolicy.com/live/d1037f97-408c-4141-a692-51c8d0bb6a21">Privacy Policy</a></li>
+							<li><a href="https://www.termsfeed.com/live/f10abafe-4226-49d6-a966-d445be4d78a7">Return & Refund Policy</a></li>
 						</ul>
 					</div>
 
 					<div class="col footer-col">
 						<h4>Contact Information</h4>
 						<ul class="colorlib-footer-links">
-							<li>291 South 21th Street, <br> Suite 721 New York NY 10016</li>
-							<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
-							<li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
-							<li><a href="#">yoursite.com</a></li>
+							<li>65, CIT Nagar, <br> Nandanam, chennai - 600035</li>
+							<li><a href="tel://99406 45523">+91 99406 45523</a></li>
+							<li><a href="mailto:support@purnibagsnmore.in">support@purnibagsnmore.in</a></li>
+							<li><a href="http://purnibagsnmore.in">purnibagsnmore.in</a></li>
 						</ul>
 					</div>
 				</div>

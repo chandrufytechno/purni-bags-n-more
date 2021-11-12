@@ -21,16 +21,16 @@ include 'head.php';
 						<h3>Contact Information</h3>
 						<div class="row contact-info-wrap">
 							<div class="col-md-3">
-								<p><span><i class="icon-location"></i></span> 198 West 21th Street, <br> Suite 721 New York NY 10016</p>
+								<p><span><i class="icon-location"></i></span> 65, CIT Nagar, <br> Nandanam, chennai - 600035</p>
 							</div>
 							<div class="col-md-3">
-								<p><span><i class="icon-phone3"></i></span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+								<p><span><i class="icon-phone3"></i></span> <a href="tel://99406 45523">+91 99406 45523</a></p>
 							</div>
 							<div class="col-md-3">
-								<p><span><i class="icon-paperplane"></i></span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+								<p><span><i class="icon-paperplane"></i></span> <a href="mailto:support@purnibagsnmore.in">support@purnibagsnmore.in</a></p>
 							</div>
 							<div class="col-md-3">
-								<p><span><i class="icon-globe"></i></span> <a href="#">yoursite.com</a></p>
+								<p><span><i class="icon-globe"></i></span> <a href="#">purnibagsnmore.in</a></p>
 							</div>
 						</div>
 					</div>
